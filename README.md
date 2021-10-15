@@ -29,7 +29,7 @@ Experimental study of the time complexity of different algorithms.
 <tr>
 <td>Constant function</td>
 <td><img src='https://github.com/mdvdv/analysis-and-development-of-algorithms/blob/main/TASK%201.%20EXPERIMENTAL%20TIME%20COMPLEXITY%20ANALYSIS/images/constant_function.png'></td>
-<td>$$O(1)$$</td>
+<td>O(1)</td>
 </tr>
 <tr>
 <td>Sum of the elements</td>
