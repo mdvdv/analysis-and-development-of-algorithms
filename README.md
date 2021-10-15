@@ -20,7 +20,7 @@ Experimental study of the time complexity of different algorithms.
 
 <h3>Results</h3>
 
-<table>
+<table background='white'>
 <tr>
 <th>Algorithm Name</th>
 <th>Empirical Time Complexity</th>
