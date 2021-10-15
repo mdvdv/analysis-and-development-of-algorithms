@@ -28,53 +28,53 @@ Experimental study of the time complexity of different algorithms.
 </tr>
 <tr>
 <td>Constant function</td>
-<td>![constant_function](https://github.com/mdvdv/analysis-and-development-of-algorithms/blob/main/TASK%201.%20EXPERIMENTAL%20TIME%20COMPLEXITY%20ANALYSIS/images/constant_function.png)</td>
-<td><formula notation=’TeX’>O(1)</formula></td>
+<td><img src='https://github.com/mdvdv/analysis-and-development-of-algorithms/blob/main/TASK%201.%20EXPERIMENTAL%20TIME%20COMPLEXITY%20ANALYSIS/images/constant_function.png'></td>
+<td><formula>O(1)</formula></td>
 </tr>
 <tr>
 <td>Sum of the elements</td>
-<td>![sum_function](https://github.com/mdvdv/analysis-and-development-of-algorithms/blob/main/TASK%201.%20EXPERIMENTAL%20TIME%20COMPLEXITY%20ANALYSIS/images/sum_function.png)</td>
-<td>$$O(n)$$</td>
+<td><img src='https://github.com/mdvdv/analysis-and-development-of-algorithms/blob/main/TASK%201.%20EXPERIMENTAL%20TIME%20COMPLEXITY%20ANALYSIS/images/sum_function.png'></td>
+<td><formula>O(n)</formula></td>
 </tr>
 <tr>
 <td>Product of the elements</td>
-<td>![product_function](https://github.com/mdvdv/analysis-and-development-of-algorithms/blob/main/TASK%201.%20EXPERIMENTAL%20TIME%20COMPLEXITY%20ANALYSIS/images/product_function.png)</td>
-<td>$$O(n)$$</td>
+<td><img src='https://github.com/mdvdv/analysis-and-development-of-algorithms/blob/main/TASK%201.%20EXPERIMENTAL%20TIME%20COMPLEXITY%20ANALYSIS/images/product_function.png'></td>
+<td><formula>O(n)</formula></td>
 </tr>
 <tr>
 <td>Direct calculation of the polynomial</td>
-<td>![naive_function](https://github.com/mdvdv/analysis-and-development-of-algorithms/blob/main/TASK%201.%20EXPERIMENTAL%20TIME%20COMPLEXITY%20ANALYSIS/images/naive_function.png)</td>
-<td>$$O(n\times\log{\left(n\right)})$$</td>
+<td><img src='https://github.com/mdvdv/analysis-and-development-of-algorithms/blob/main/TASK%201.%20EXPERIMENTAL%20TIME%20COMPLEXITY%20ANALYSIS/images/naive_function.png'></td>
+<td><formula>O(n*log(n))</formula></td>
 </tr>
 <tr>
 <td>Horner’s calculation of the polynomial</td>
-<td>![horner_function](https://github.com/mdvdv/analysis-and-development-of-algorithms/blob/main/TASK%201.%20EXPERIMENTAL%20TIME%20COMPLEXITY%20ANALYSIS/images/horner_function.png)</td>
-<td>$$O(n\times\log{\left(n\right)})$$</td>
+<td><img src='https://github.com/mdvdv/analysis-and-development-of-algorithms/blob/main/TASK%201.%20EXPERIMENTAL%20TIME%20COMPLEXITY%20ANALYSIS/images/horner_function.png'></td>
+<td><formula>O(n*log(n))</formula></td>
 </tr>
 <tr>
 <td>Bubble Sort of the elements</td>
-<td>![bubblesort_function](https://github.com/mdvdv/analysis-and-development-of-algorithms/blob/main/TASK%201.%20EXPERIMENTAL%20TIME%20COMPLEXITY%20ANALYSIS/images/bubblesort_function.png)</td>
-<td>$$O(n^2)$$</td>
+<td><img src='https://github.com/mdvdv/analysis-and-development-of-algorithms/blob/main/TASK%201.%20EXPERIMENTAL%20TIME%20COMPLEXITY%20ANALYSIS/images/bubblesort_function.png'></td>
+<td><formula>O(1)</formula></td>
 </tr>
 <tr>
 <td>Quick Sort of the elements</td>
-<td>![quicksort_function](https://github.com/mdvdv/analysis-and-development-of-algorithms/blob/main/TASK%201.%20EXPERIMENTAL%20TIME%20COMPLEXITY%20ANALYSIS/images/quicksort_function.png)</td>
-<td>$$O(n\times\log{\left(n\right)})$$</td>
+<td><img src='https://github.com/mdvdv/analysis-and-development-of-algorithms/blob/main/TASK%201.%20EXPERIMENTAL%20TIME%20COMPLEXITY%20ANALYSIS/images/quicksort_function.png'></td>
+<td><formula>O(n^2)</formula></td>
 </tr>
 <tr>
 <td>Timsort of the elements</td>
-<td>![timsort_function](https://github.com/mdvdv/analysis-and-development-of-algorithms/blob/main/TASK%201.%20EXPERIMENTAL%20TIME%20COMPLEXITY%20ANALYSIS/images/timsort_function.png)</td>
-<td>$$O(n\times\log{\left(n\right)})$$</td>
+<td><img src='https://github.com/mdvdv/analysis-and-development-of-algorithms/blob/main/TASK%201.%20EXPERIMENTAL%20TIME%20COMPLEXITY%20ANALYSIS/images/timsort_function.png'></td>
+<td><formula>O(n*log(n))</formula></td>
 </tr>
 <tr>
 <td>Matrix product of the elements</td>
-<td>![matmul_function](https://github.com/mdvdv/analysis-and-development-of-algorithms/blob/main/TASK%201.%20EXPERIMENTAL%20TIME%20COMPLEXITY%20ANALYSIS/images/matmul_function.png)</td>
-<td>$$O(n^3)$$</td>
+<td><img src='https://github.com/mdvdv/analysis-and-development-of-algorithms/blob/main/TASK%201.%20EXPERIMENTAL%20TIME%20COMPLEXITY%20ANALYSIS/images/matmul_function.png'></td>
+<td><formula>O(n^3)</formula></td>
 </tr>
 <tr>
 <td>Dot product of the elements</td>
-<td>![dot_function](https://github.com/mdvdv/analysis-and-development-of-algorithms/blob/main/TASK%201.%20EXPERIMENTAL%20TIME%20COMPLEXITY%20ANALYSIS/images/dot_function.png)</td>
-<td>$$O(n^3)$$</td>
+<td><img src='https://github.com/mdvdv/analysis-and-development-of-algorithms/blob/main/TASK%201.%20EXPERIMENTAL%20TIME%20COMPLEXITY%20ANALYSIS/images/dot_function.png'></td>
+<td><formula>O(n^3)</formula></td>
 </tr>
 </table>
 
