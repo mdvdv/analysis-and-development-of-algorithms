@@ -58,12 +58,12 @@ Experimental study of the time complexity of different algorithms.
 <tr>
 <td>Bubble Sort of the Elements</td>
 <td bgcolor=white><img src='https://github.com/mdvdv/analysis-and-development-of-algorithms/blob/main/TASK%201.%20EXPERIMENTAL%20TIME%20COMPLEXITY%20ANALYSIS/images/bubblesort_function.png'></td>
-<td align='center'><formula>O(1)</formula></td>
+<td align='center'><formula>O(n^2)</formula></td>
 </tr>
 <tr>
 <td>Quick Sort of the Elements</td>
 <td bgcolor=white><img src='https://github.com/mdvdv/analysis-and-development-of-algorithms/blob/main/TASK%201.%20EXPERIMENTAL%20TIME%20COMPLEXITY%20ANALYSIS/images/quicksort_function.png'></td>
-<td align='center'><formula>O(n^2)</formula></td>
+<td align='center'><formula>O(n*log(n))</formula></td>
 </tr>
 <tr>
 <td>Timsort of the Elements</td>
