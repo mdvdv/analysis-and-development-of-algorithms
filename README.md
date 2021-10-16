@@ -175,12 +175,12 @@ The use of direct methods (one-dimensional methods of exhaustive search, dichoto
 
 <table>
 <tr>
-<th></th>
-<th>Minimization of Linear Approximating Function</th>
-<th>Minimization of Rational Approximating Function</th>
+<td>Approximating Method</td>
+<td>Minimization of Linear Approximating Function</td>
+<td>Minimization of Rational Approximating Function</td>
 </tr>
 <tr>
-<td></td>
+<td>Graph</td>
 <td bgcolor=white><img src='https://github.com/mdvdv/analysis-and-development-of-algorithms/blob/main/TASK%202.%20ALGORITHMS%20FOR%20UNCONSTRAINED%20NONLINEAR%20OPTIMIZATION.%20DIRECT%20METHODS/images/linear_approximant.png'></td>
 <td bgcolor=white><img src='https://github.com/mdvdv/analysis-and-development-of-algorithms/blob/main/TASK%202.%20ALGORITHMS%20FOR%20UNCONSTRAINED%20NONLINEAR%20OPTIMIZATION.%20DIRECT%20METHODS/images/rational_approximant.png'></td>
 </tr>
