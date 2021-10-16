@@ -182,3 +182,18 @@ The use of direct methods (one-dimensional methods of exhaustive search, dichoto
 <td bgcolor=white><img src='https://github.com/mdvdv/analysis-and-development-of-algorithms/blob/main/TASK%202.%20ALGORITHMS%20FOR%20UNCONSTRAINED%20NONLINEAR%20OPTIMIZATION.%20DIRECT%20METHODS/images/linear_approximant.png'></td>
 <td bgcolor=white><img src='https://github.com/mdvdv/analysis-and-development-of-algorithms/blob/main/TASK%202.%20ALGORITHMS%20FOR%20UNCONSTRAINED%20NONLINEAR%20OPTIMIZATION.%20DIRECT%20METHODS/images/rational_approximant.png'></td>
 </tr>
+<tr>
+<td><formula>Exhaustive Search</formula></td>
+<td align='center'><formula>(0.871, 0.404)</formula></td>
+<td align='center'><formula>(0.473, -0.716)</formula></td>
+</tr>
+<tr>
+<td><formula>Gauss Search</formula></td>
+<td align='center'><formula>(0.871, 0.404)</formula></td>
+<td align='center'><formula>(0.835, 0.0)</formula></td>
+</tr>
+<tr>
+<td><formula>Nelder-Mead Search</formula></td>
+<td align='center'><formula>(0.871, 0.404)</formula></td>
+<td align='center'><formula>(0.473, -0.716)</formula></td>
+</tr>
