@@ -90,3 +90,95 @@ Experimental study of the time complexity of different algorithms.
 The use of direct methods (one-dimensional methods of exhaustive search, dichotomy, golden section search; multidimensional methods of exhaustive search, Gauss (coordinate descent), Nelder-Mead) in the tasks of unconstrained nonlinear optimization.
 
 <h3>Results</h3>
+
+<table>
+<tr>
+<th>Function Name</th>
+<th>Algorithm Name</th>
+<th>Function Minimization Graph</th>
+<th>x</th>
+<th>f(x)</th>
+<th>Number of iterations</th>
+</tr>
+<tr>
+<td>Cubic Function</td>
+<td>Exhaustive Search</td>
+<td bgcolor=white><img src='https://github.com/mdvdv/analysis-and-development-of-algorithms/blob/main/TASK%202.%20ALGORITHMS%20FOR%20UNCONSTRAINED%20NONLINEAR%20OPTIMIZATION.%20DIRECT%20METHODS/images/cubic_function.png'></td>
+<td align='center'><formula>0.0</formula></td>
+<td align='center'><formula>0.0</formula></td>
+<td align='center'><formula>1001</formula></td>
+</tr>
+<tr>
+<td>Cubic Function</td>
+<td>Dichotomy Search</td>
+<td bgcolor=white><img src='https://github.com/mdvdv/analysis-and-development-of-algorithms/blob/main/TASK%202.%20ALGORITHMS%20FOR%20UNCONSTRAINED%20NONLINEAR%20OPTIMIZATION.%20DIRECT%20METHODS/images/cubic_function.png'></td>
+<td align='center'><formula>0.0</formula></td>
+<td align='center'><formula>0.0</formula></td>
+<td align='center'><formula>11</formula></td>
+</tr>
+<tr>
+<td>Cubic Function</td>
+<td>Golden Section Search</td>
+<td bgcolor=white><img src='https://github.com/mdvdv/analysis-and-development-of-algorithms/blob/main/TASK%202.%20ALGORITHMS%20FOR%20UNCONSTRAINED%20NONLINEAR%20OPTIMIZATION.%20DIRECT%20METHODS/images/cubic_function.png'></td>
+<td align='center'><formula>0.0</formula></td>
+<td align='center'><formula>0.0</formula></td>
+<td align='center'><formula>15</formula></td>
+</tr>
+<tr>
+<td>Absolute Value Function</td>
+<td>Exhaustive Search</td>
+<td bgcolor=white><img src='https://github.com/mdvdv/analysis-and-development-of-algorithms/blob/main/TASK%202.%20ALGORITHMS%20FOR%20UNCONSTRAINED%20NONLINEAR%20OPTIMIZATION.%20DIRECT%20METHODS/images/absolute_function.png'></td>
+<td align='center'><formula>0.2</formula></td>
+<td align='center'><formula>0.0</formula></td>
+<td align='center'><formula>1001</formula></td>
+</tr>
+<tr>
+<td>Absolute Value Function</td>
+<td>Dichotomy Search</td>
+<td bgcolor=white><img src='https://github.com/mdvdv/analysis-and-development-of-algorithms/blob/main/TASK%202.%20ALGORITHMS%20FOR%20UNCONSTRAINED%20NONLINEAR%20OPTIMIZATION.%20DIRECT%20METHODS/images/absolute_function.png'></td>
+<td align='center'><formula>0.2</formula></td>
+<td align='center'><formula>0.0</formula></td>
+<td align='center'><formula>11</formula></td>
+</tr>
+<tr>
+<td>Absolute Value Function</td>
+<td>Golden Section Search</td>
+<td bgcolor=white><img src='https://github.com/mdvdv/analysis-and-development-of-algorithms/blob/main/TASK%202.%20ALGORITHMS%20FOR%20UNCONSTRAINED%20NONLINEAR%20OPTIMIZATION.%20DIRECT%20METHODS/images/absolute_function.png'></td>
+<td align='center'><formula>0.2</formula></td>
+<td align='center'><formula>0.0</formula></td>
+<td align='center'><formula>15</formula></td>
+</tr>
+<tr>
+<td>Sine Function</td>
+<td>Exhaustive Search</td>
+<td bgcolor=white><img src='https://github.com/mdvdv/analysis-and-development-of-algorithms/blob/main/TASK%202.%20ALGORITHMS%20FOR%20UNCONSTRAINED%20NONLINEAR%20OPTIMIZATION.%20DIRECT%20METHODS/images/sine_function.png'></td>
+<td align='center'><formula>0.223</formula></td>
+<td align='center'><formula>-0.217</formula></td>
+<td align='center'><formula>991</formula></td>
+</tr>
+<tr>
+<td>Sine Function</td>
+<td>Dichotomy Search</td>
+<td bgcolor=white><img src='https://github.com/mdvdv/analysis-and-development-of-algorithms/blob/main/TASK%202.%20ALGORITHMS%20FOR%20UNCONSTRAINED%20NONLINEAR%20OPTIMIZATION.%20DIRECT%20METHODS/images/sine_function.png'></td>
+<td align='center'><formula>0.223</formula></td>
+<td align='center'><formula>-0.217</formula></td>
+<td align='center'><formula>11</formula></td>
+</tr>
+<tr>
+<td>Sine Function</td>
+<td>Golden Section Search</td>
+<td bgcolor=white><img src='https://github.com/mdvdv/analysis-and-development-of-algorithms/blob/main/TASK%202.%20ALGORITHMS%20FOR%20UNCONSTRAINED%20NONLINEAR%20OPTIMIZATION.%20DIRECT%20METHODS/images/sine_function.png'></td>
+<td align='center'><formula>0.223</formula></td>
+<td align='center'><formula>-0.217</formula></td>
+<td align='center'><formula>15</formula></td>
+</tr>
+
+<table>
+<tr>
+<th>Minimization of Linear Approximating Function</th>
+<th>Minimization of Rational Approximating Function</th>
+</tr>
+<tr>
+<td bgcolor=white><img src='https://github.com/mdvdv/analysis-and-development-of-algorithms/blob/main/TASK%202.%20ALGORITHMS%20FOR%20UNCONSTRAINED%20NONLINEAR%20OPTIMIZATION.%20DIRECT%20METHODS/images/linear_approximant.png'></td>
+<td bgcolor=white><img src='https://github.com/mdvdv/analysis-and-development-of-algorithms/blob/main/TASK%202.%20ALGORITHMS%20FOR%20UNCONSTRAINED%20NONLINEAR%20OPTIMIZATION.%20DIRECT%20METHODS/images/rational_approximant.png'></td>
+</tr>
