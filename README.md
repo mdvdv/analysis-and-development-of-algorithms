@@ -199,3 +199,44 @@ The use of direct methods (one-dimensional methods of exhaustive search, dichoto
 <td align='center'><formula>(0.871, 0.404)</formula></td>
 <td align='center'><formula>(0.473, -0.716)</formula></td>
 </tr>
+
+<a name='003'></a>
+<h2>TASK 3. ALGORITHMS FOR UNCONSTRAINED NONLINEAR OPTIMIZATION. FIRST- AND SECONDORDER</h2>
+
+<h3>Goal</h3>
+
+The use of first- and second-order methods (Gradient Descent, Non-linear Conjugate Gradient Descent, Newton’s method and Levenberg-Marquardt algorithm) in the tasks of unconstrained nonlinear optimization.
+
+<h3>Results</h3>
+
+<table>
+<tr>
+<td>Approximating Method</td>
+<td>Minimization of Linear Approximating Function</td>
+<td>Minimization of Rational Approximating Function</td>
+</tr>
+<tr>
+<td>Graph</td>
+<td bgcolor=white><img src='https://github.com/mdvdv/analysis-and-development-of-algorithms/blob/main/TASK%202.%20ALGORITHMS%20FOR%20UNCONSTRAINED%20NONLINEAR%20OPTIMIZATION.%20DIRECT%20METHODS/images/linear_approximant.png'></td>
+<td bgcolor=white><img src='https://github.com/mdvdv/analysis-and-development-of-algorithms/blob/main/TASK%202.%20ALGORITHMS%20FOR%20UNCONSTRAINED%20NONLINEAR%20OPTIMIZATION.%20DIRECT%20METHODS/images/rational_approximant.png'></td>
+</tr>
+<tr>
+<td><formula>Exhaustive Search</formula></td>
+<td align='center'><formula>(0.871, 0.404)</formula></td>
+<td align='center'><formula>(0.473, -0.716)</formula></td>
+</tr>
+<tr>
+<td><formula>Gauss Search</formula></td>
+<td align='center'><formula>(0.871, 0.404)</formula></td>
+<td align='center'><formula>(0.835, 0.0)</formula></td>
+</tr>
+<tr>
+<td><formula>Nelder-Mead Search</formula></td>
+<td align='center'><formula>(0.871, 0.404)</formula></td>
+<td align='center'><formula>(0.473, -0.716)</formula></td>
+</tr>
+<tr>
+<td><formula>Nelder-Mead Search</formula></td>
+<td align='center'><formula>(0.871, 0.404)</formula></td>
+<td align='center'><formula>(0.473, -0.716)</formula></td>
+</tr>
