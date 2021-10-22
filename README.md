@@ -189,17 +189,17 @@ The use of direct methods (one-dimensional methods of exhaustive search, dichoto
 <tr>
 <td><formula>Exhaustive Search</formula></td>
 <td align='center'><formula>(0.871, 0.404)</formula></td>
-<td align='center'><formula>(0.473, -0.716)</formula></td>
+<td align='center'><formula>(0.623516, -0.399272)</formula></td>
 </tr>
 <tr>
 <td><formula>Gauss Search</formula></td>
 <td align='center'><formula>(0.871, 0.404)</formula></td>
-<td align='center'><formula>(0.835, 0.0)</formula></td>
+<td align='center'><formula>(0.623528, -0.399226)</formula></td>
 </tr>
 <tr>
 <td><formula>Nelder-Mead Search</formula></td>
 <td align='center'><formula>(0.871, 0.404)</formula></td>
-<td align='center'><formula>(0.473, -0.716)</formula></td>
+<td align='center'><formula>(0.623544, -0.399178)</formula></td>
 </tr>
 </table>
 
@@ -242,5 +242,20 @@ The use of first- and second-order methods (Gradient Descent, Non-linear Conjuga
 <td><formula>Levenberg-Marquardt Algorithm</formula></td>
 <td align='center'><formula>(0.499114, 0.119546)</formula></td>
 <td align='center'><formula>(0.209031, -0.721037)</formula></td>
+</tr>
+<tr>
+<td><formula>Exhaustive Search</formula></td>
+<td align='center'><formula>(0.499129, 0.119529)</formula></td>
+<td align='center'><formula>(0.209044, -0.720999)</formula></td>
+</tr>
+<tr>
+<td><formula>Gauss Search</formula></td>
+<td align='center'><formula>(0.499114, 0.119547)</formula></td>
+<td align='center'><formula>(0.209033, -0.721034)</formula></td>
+</tr>
+<tr>
+<td><formula>Nelder-Mead Search</formula></td>
+<td align='center'><formula>(0.499080, 0.119561)</formula></td>
+<td align='center'><formula>(0.209048, -0.720992)</formula></td>
 </tr>
 </table>
