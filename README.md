@@ -172,6 +172,7 @@ The use of direct methods (one-dimensional methods of exhaustive search, dichoto
 <td align='center'><formula>-0.217</formula></td>
 <td align='center'><formula>15</formula></td>
 </tr>
+</table>
 
 <table>
 <tr>
@@ -199,6 +200,7 @@ The use of direct methods (one-dimensional methods of exhaustive search, dichoto
 <td align='center'><formula>(0.871, 0.404)</formula></td>
 <td align='center'><formula>(0.473, -0.716)</formula></td>
 </tr>
+</table>
 
 <a name='003'></a>
 <h2>TASK 3. ALGORITHMS FOR UNCONSTRAINED NONLINEAR OPTIMIZATION. FIRST- AND SECONDORDER</h2>
@@ -240,3 +242,4 @@ The use of first- and second-order methods (Gradient Descent, Non-linear Conjuga
 <td align='center'><formula>(0.871, 0.404)</formula></td>
 <td align='center'><formula>(0.473, -0.716)</formula></td>
 </tr>
+</table>
