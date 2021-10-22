@@ -12,6 +12,7 @@ Group: J4133c
     <ol type='1'>
     <li><a href='#001'>TASK 1. EXPERIMENTAL TIME COMPLEXITY ANALYSIS</a></li>
     <li><a href='#002'>TASK 2. ALGORITHMS FOR UNCONSTRAINED NONLINEAR OPTIMIZATION. DIRECT METHODS</a></li>
+    <li><a href='#003'>TASK 3. ALGORITHMS FOR UNCONSTRAINED NONLINEAR OPTIMIZATION. FIRST- AND SECONDORDER</a></li>
     </ol>
 </ul>
 
@@ -219,27 +220,27 @@ The use of first- and second-order methods (Gradient Descent, Non-linear Conjuga
 </tr>
 <tr>
 <td>Graph</td>
-<td bgcolor=white><img src='https://github.com/mdvdv/analysis-and-development-of-algorithms/blob/main/TASK%202.%20ALGORITHMS%20FOR%20UNCONSTRAINED%20NONLINEAR%20OPTIMIZATION.%20DIRECT%20METHODS/images/linear_approximant.png'></td>
-<td bgcolor=white><img src='https://github.com/mdvdv/analysis-and-development-of-algorithms/blob/main/TASK%202.%20ALGORITHMS%20FOR%20UNCONSTRAINED%20NONLINEAR%20OPTIMIZATION.%20DIRECT%20METHODS/images/rational_approximant.png'></td>
+<td bgcolor=white><img src='https://github.com/mdvdv/analysis-and-development-of-algorithms/blob/main/TASK%203.%20ALGORITHMS%20FOR%20UNCONSTRAINED%20NONLINEAR%20OPTIMIZATION.%20FIRST-%20AND%20SECONDORDER/images/linear_approximant.png'></td>
+<td bgcolor=white><img src='https://github.com/mdvdv/analysis-and-development-of-algorithms/blob/main/TASK%203.%20ALGORITHMS%20FOR%20UNCONSTRAINED%20NONLINEAR%20OPTIMIZATION.%20FIRST-%20AND%20SECONDORDER/images/rational_approximant.png'></td>
 </tr>
 <tr>
-<td><formula>Exhaustive Search</formula></td>
-<td align='center'><formula>(0.871, 0.404)</formula></td>
-<td align='center'><formula>(0.473, -0.716)</formula></td>
+<td><formula>Gradient Descent</formula></td>
+<td align='center'><formula>(0.499114, 0.119546)</formula></td>
+<td align='center'><formula>(0.209032, -0.721034)</formula></td>
 </tr>
 <tr>
-<td><formula>Gauss Search</formula></td>
-<td align='center'><formula>(0.871, 0.404)</formula></td>
-<td align='center'><formula>(0.835, 0.0)</formula></td>
+<td><formula>Conjugate Gradient Descent</formula></td>
+<td align='center'><formula>(0.499114, 0.119547)</formula></td>
+<td align='center'><formula>(0.209032, -0.721034)</formula></td>
 </tr>
 <tr>
-<td><formula>Nelder-Mead Search</formula></td>
-<td align='center'><formula>(0.871, 0.404)</formula></td>
-<td align='center'><formula>(0.473, -0.716)</formula></td>
+<td><formula>Newton's Method</formula></td>
+<td align='center'><formula>(0.499114, 0.119546)</formula></td>
+<td align='center'><formula>(0.209030, -0.721043)</formula></td>
 </tr>
 <tr>
-<td><formula>Nelder-Mead Search</formula></td>
-<td align='center'><formula>(0.871, 0.404)</formula></td>
-<td align='center'><formula>(0.473, -0.716)</formula></td>
+<td><formula>Levenberg-Marquardt Algorithm</formula></td>
+<td align='center'><formula>(0.499114, 0.119546)</formula></td>
+<td align='center'><formula>(0.209031, -0.721037)</formula></td>
 </tr>
 </table>
