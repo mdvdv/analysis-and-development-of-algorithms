@@ -221,8 +221,8 @@ The use of first- and second-order methods (Gradient Descent, Non-linear Conjuga
 </tr>
 <tr>
 <td>Graph</td>
-<td bgcolor=white><img src='https://github.com/mdvdv/analysis-and-development-of-algorithms/blob/main/TASK%203.%20ALGORITHMS%20FOR%20UNCONSTRAINED%20NONLINEAR%20OPTIMIZATION.%20FIRST-%20AND%20SECONDORDER/images/linear_approximant.png'></td>
-<td bgcolor=white><img src='https://github.com/mdvdv/analysis-and-development-of-algorithms/blob/main/TASK%203.%20ALGORITHMS%20FOR%20UNCONSTRAINED%20NONLINEAR%20OPTIMIZATION.%20FIRST-%20AND%20SECONDORDER/images/rational_approximant.png'></td>
+<td bgcolor=white><img src='https://github.com/mdvdv/analysis-and-development-of-algorithms/blob/main/TASK%203.%20ALGORITHMS%20FOR%20UNCONSTRAINED%20NONLINEAR%20OPTIMIZATION.%20FIRST-%20AND%20SECONDORDER%20METHODS/images/linear_approximant.png'></td>
+<td bgcolor=white><img src='https://github.com/mdvdv/analysis-and-development-of-algorithms/blob/main/TASK%203.%20ALGORITHMS%20FOR%20UNCONSTRAINED%20NONLINEAR%20OPTIMIZATION.%20FIRST-%20AND%20SECONDORDER%20METHODS/images/rational_approximant.png'></td>
 </tr>
 <tr>
 <td><formula>Gradient Descent</formula></td>
