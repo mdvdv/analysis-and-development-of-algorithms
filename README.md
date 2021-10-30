@@ -12,7 +12,8 @@ Group: J4133c
     <ol type='1'>
     <li><a href='#001'>TASK 1. EXPERIMENTAL TIME COMPLEXITY ANALYSIS</a></li>
     <li><a href='#002'>TASK 2. ALGORITHMS FOR UNCONSTRAINED NONLINEAR OPTIMIZATION. DIRECT METHODS</a></li>
-    <li><a href='#003'>TASK 3. ALGORITHMS FOR UNCONSTRAINED NONLINEAR OPTIMIZATION. FIRST- AND SECONDORDER</a></li>
+    <li><a href='#003'>TASK 3. ALGORITHMS FOR UNCONSTRAINED NONLINEAR OPTIMIZATION. FIRST- AND SECONDORDER METHODS</a></li>
+    <li><a href='#004'>TASK 4. ALGORITHMS FOR UNCONSTRAINED NONLINEAR OPTIMIZATION. STOCHASTIC AND METAHEURISTIC ALGORITHMS</a></li>
     </ol>
 </ul>
 
@@ -204,7 +205,7 @@ The use of direct methods (one-dimensional methods of exhaustive search, dichoto
 </table>
 
 <a name='003'></a>
-<h2>TASK 3. ALGORITHMS FOR UNCONSTRAINED NONLINEAR OPTIMIZATION. FIRST- AND SECONDORDER</h2>
+<h2>TASK 3. ALGORITHMS FOR UNCONSTRAINED NONLINEAR OPTIMIZATION. FIRST- AND SECONDORDER METHODS</h2>
 
 <h3>Goal</h3>
 
@@ -259,3 +260,10 @@ The use of first- and second-order methods (Gradient Descent, Non-linear Conjuga
 <td align='center'><formula>(0.209048, -0.720992)</formula></td>
 </tr>
 </table>
+
+<a name='004'></a>
+<h2>TASK 4. ALGORITHMS FOR UNCONSTRAINED NONLINEAR OPTIMIZATION. STOCHASTIC AND METAHEURISTIC ALGORITHMS</h2>
+
+<h3>Goal</h3>
+
+The use of stochastic and metaheuristic algorithms (Simulated Annealing, Differential Evolution, Particle Swarm Optimization) in the tasks of unconstrained nonlinear optimization and the experimental comparison of them with Nelder-Mead and Levenberg-Marquardt algorithms.
