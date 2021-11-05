@@ -293,11 +293,4 @@ The use of different representations of graphs and basic algorithms on graphs (D
 
 <h3>Results</h3>
 
-<table>
-<tr>
-<td>Graph Visualization</td>
-</tr>
-<tr>
-<td bgcolor=white><img src='https://github.com/mdvdv/analysis-and-development-of-algorithms/blob/main/TASK%205.%20ALGORITHMS%20ON%20GRAPHS.%20INTRODUCTION%20TO%20GRAPHS%20AND%20BASIC%20ALGORITHMS%20ON%20GRAPHS/images/graph.png'></td>
-</tr>
-</table>
+<tr><img src='https://github.com/mdvdv/analysis-and-development-of-algorithms/blob/main/TASK%205.%20ALGORITHMS%20ON%20GRAPHS.%20INTRODUCTION%20TO%20GRAPHS%20AND%20BASIC%20ALGORITHMS%20ON%20GRAPHS/images/graph.png'>
