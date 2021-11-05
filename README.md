@@ -269,9 +269,35 @@ The use of first- and second-order methods (Gradient Descent, Non-linear Conjuga
 
 The use of stochastic and metaheuristic algorithms (Simulated Annealing, Differential Evolution, Particle Swarm Optimization) in the tasks of unconstrained nonlinear optimization and the experimental comparison of them with Nelder-Mead and Levenberg-Marquardt algorithms.
 
+<h3>Results</h3>
+
+<table>
+<tr>
+<td>Travelling Salesman Problem</td>
+<td>Initialized Solution</td>
+<td>Best Obtained Solution</td>
+</tr>
+<tr>
+<td>Graph</td>
+<td bgcolor=white><img src='https://github.com/mdvdv/analysis-and-development-of-algorithms/blob/main/TASK%204.%20ALGORITHMS%20FOR%20UNCONSTRAINED%20NONLINEAR%20OPTIMIZATION.%20STOCHASTIC%20AND%20METAHEURISTIC%20ALGORITHMS/images/initialized_solution.png'></td>
+<td bgcolor=white><img src='https://github.com/mdvdv/analysis-and-development-of-algorithms/blob/main/TASK%204.%20ALGORITHMS%20FOR%20UNCONSTRAINED%20NONLINEAR%20OPTIMIZATION.%20STOCHASTIC%20AND%20METAHEURISTIC%20ALGORITHMS/images/obtained_solution.png'></td>
+</tr>
+</table>
+
 <a name='005'></a>
 <h2>TASK 5. ALGORITHMS ON GRAPHS. INTRODUCTION TO GRAPHS AND BASIC ALGORITHMS ON GRAPHS</h2>
 
 <h3>Goal</h3>
 
 The use of different representations of graphs and basic algorithms on graphs (Depth-first search and Breadth-first search).
+
+<h3>Results</h3>
+
+<table>
+<tr>
+<td>Graph Visualization</td>
+</tr>
+<tr>
+<td bgcolor=white><img src='https://github.com/mdvdv/analysis-and-development-of-algorithms/blob/main/TASK%205.%20ALGORITHMS%20ON%20GRAPHS.%20INTRODUCTION%20TO%20GRAPHS%20AND%20BASIC%20ALGORITHMS%20ON%20GRAPHS/images/graph.png'></td>
+</tr>
+</table>
