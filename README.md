@@ -14,6 +14,7 @@ Group: J4133c
     <li><a href='#002'>TASK 2. ALGORITHMS FOR UNCONSTRAINED NONLINEAR OPTIMIZATION. DIRECT METHODS</a></li>
     <li><a href='#003'>TASK 3. ALGORITHMS FOR UNCONSTRAINED NONLINEAR OPTIMIZATION. FIRST- AND SECONDORDER METHODS</a></li>
     <li><a href='#004'>TASK 4. ALGORITHMS FOR UNCONSTRAINED NONLINEAR OPTIMIZATION. STOCHASTIC AND METAHEURISTIC ALGORITHMS</a></li>
+    <li><a href='#005'>TASK 5. ALGORITHMS ON GRAPHS. INTRODUCTION TO GRAPHS AND BASIC ALGORITHMS ON GRAPHS</a></li>
     </ol>
 </ul>
 
@@ -267,3 +268,10 @@ The use of first- and second-order methods (Gradient Descent, Non-linear Conjuga
 <h3>Goal</h3>
 
 The use of stochastic and metaheuristic algorithms (Simulated Annealing, Differential Evolution, Particle Swarm Optimization) in the tasks of unconstrained nonlinear optimization and the experimental comparison of them with Nelder-Mead and Levenberg-Marquardt algorithms.
+
+<a name='005'></a>
+<h2>TASK 5. ALGORITHMS ON GRAPHS. INTRODUCTION TO GRAPHS AND BASIC ALGORITHMS ON GRAPHS</h2>
+
+<h3>Goal</h3>
+
+The use of different representations of graphs and basic algorithms on graphs (Depth-first search and Breadth-first search).
