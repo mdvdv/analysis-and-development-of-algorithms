@@ -305,4 +305,13 @@ The use of path search algorithms on weighted graphs (Dijkstra's, A* and Bellman
 
 <h3>Results</h3>
 
-<tr><img src='https://github.com/mdvdv/analysis-and-development-of-algorithms/blob/main/TASK%205.%20ALGORITHMS%20ON%20GRAPHS.%20INTRODUCTION%20TO%20GRAPHS%20AND%20BASIC%20ALGORITHMS%20ON%20GRAPHS/images/graph.png'>
+<table>
+<tr>
+<td>Graph Implementation</td>
+<td>Grid Graph Implementation</td>
+</tr>
+<tr>
+<td bgcolor=white><img src='https://github.com/mdvdv/analysis-and-development-of-algorithms/blob/main/TASK%206.%20ALGORITHMS%20ON%20GRAPHS.%20PATH%20SEARCH%20ALGORITHMS%20ON%20WEIGHTED%20GRAPHS/images/graph.png'></td>
+<td bgcolor=white><img src='https://github.com/mdvdv/analysis-and-development-of-algorithms/blob/main/TASK%206.%20ALGORITHMS%20ON%20GRAPHS.%20PATH%20SEARCH%20ALGORITHMS%20ON%20WEIGHTED%20GRAPHS/images/grid_graph.png'></td>
+</tr>
+</table>
