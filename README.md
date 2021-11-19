@@ -328,17 +328,23 @@ The use of the network analysis software Gephi.
 
 <table>
 <tr>
-<td>Travelling Salesman Problem</td>
-<td>Initialized Solution</td>
-<td>Best Obtained Solution</td>
-<td>Initialized Solution</td>
-<td>Best Obtained Solution</td>
+<td>Graph Layout</td>
+<td>Graph</td>
 </tr>
 <tr>
-<td>Graph</td>
-<td bgcolor=white><img src='https://github.com/mdvdv/analysis-and-development-of-algorithms/blob/main/TASK%204.%20ALGORITHMS%20FOR%20UNCONSTRAINED%20NONLINEAR%20OPTIMIZATION.%20STOCHASTIC%20AND%20METAHEURISTIC%20ALGORITHMS/images/initialized_solution.png'></td>
-<td bgcolor=white><img src='https://github.com/mdvdv/analysis-and-development-of-algorithms/blob/main/TASK%204.%20ALGORITHMS%20FOR%20UNCONSTRAINED%20NONLINEAR%20OPTIMIZATION.%20STOCHASTIC%20AND%20METAHEURISTIC%20ALGORITHMS/images/obtained_solution.png'></td>
-<td bgcolor=white><img src='https://github.com/mdvdv/analysis-and-development-of-algorithms/blob/main/TASK%204.%20ALGORITHMS%20FOR%20UNCONSTRAINED%20NONLINEAR%20OPTIMIZATION.%20STOCHASTIC%20AND%20METAHEURISTIC%20ALGORITHMS/images/initialized_solution.png'></td>
-<td bgcolor=white><img src='https://github.com/mdvdv/analysis-and-development-of-algorithms/blob/main/TASK%204.%20ALGORITHMS%20FOR%20UNCONSTRAINED%20NONLINEAR%20OPTIMIZATION.%20STOCHASTIC%20AND%20METAHEURISTIC%20ALGORITHMS/images/obtained_solution.png'></td>
+<td>Original Graph</td>
+<td bgcolor=white><img src='https://github.com/mdvdv/analysis-and-development-of-algorithms/blob/main/TASK%207.%20ALGORITHMS%20ON%20GRAPHS.%20TOOLS%20FOR%20NETWORK%20ANALYSIS/images/graph.png'></td>
+</tr>
+<tr>
+<td>Fruchterman-Reingold Layout</td>
+<td bgcolor=white><img src='https://github.com/mdvdv/analysis-and-development-of-algorithms/blob/main/TASK%207.%20ALGORITHMS%20ON%20GRAPHS.%20TOOLS%20FOR%20NETWORK%20ANALYSIS/images/fruchterman_reingold.png'></td>
+</tr>
+<tr>
+<td>Yifan Hu Layout</td>
+<td bgcolor=white><img src='https://github.com/mdvdv/analysis-and-development-of-algorithms/blob/main/TASK%207.%20ALGORITHMS%20ON%20GRAPHS.%20TOOLS%20FOR%20NETWORK%20ANALYSIS/images/yifan_hu.png'></td>
+</tr>
+<tr>
+<td>Yifan Hu Proportional Layout</td>
+<td bgcolor=white><img src='https://github.com/mdvdv/analysis-and-development-of-algorithms/blob/main/TASK%207.%20ALGORITHMS%20ON%20GRAPHS.%20TOOLS%20FOR%20NETWORK%20ANALYSIS/images/yifan_hu_proportional.png'></td>
 </tr>
 </table>
