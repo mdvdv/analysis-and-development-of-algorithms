@@ -16,6 +16,7 @@ Group: J4133c
     <li><a href='#004'>TASK 4. ALGORITHMS FOR UNCONSTRAINED NONLINEAR OPTIMIZATION. STOCHASTIC AND METAHEURISTIC ALGORITHMS</a></li>
     <li><a href='#005'>TASK 5. ALGORITHMS ON GRAPHS. INTRODUCTION TO GRAPHS AND BASIC ALGORITHMS ON GRAPHS</a></li>
     <li><a href='#006'>TASK 6. ALGORITHMS ON GRAPHS. PATH SEARCH ALGORITHMS ON WEIGHTED GRAPHS</a></li>
+    <li><a href='#007'>TASK 7. ALGORITHMS ON GRAPHS. TOOLS FOR NETWORK ANALYSIS</a></li>
     </ol>
 </ul>
 
@@ -313,5 +314,31 @@ The use of path search algorithms on weighted graphs (Dijkstra's, A* and Bellman
 <tr>
 <td bgcolor=white><img src='https://github.com/mdvdv/analysis-and-development-of-algorithms/blob/main/TASK%206.%20ALGORITHMS%20ON%20GRAPHS.%20PATH%20SEARCH%20ALGORITHMS%20ON%20WEIGHTED%20GRAPHS/images/graph.png'></td>
 <td bgcolor=white><img src='https://github.com/mdvdv/analysis-and-development-of-algorithms/blob/main/TASK%206.%20ALGORITHMS%20ON%20GRAPHS.%20PATH%20SEARCH%20ALGORITHMS%20ON%20WEIGHTED%20GRAPHS/images/grid_graph.png'></td>
+</tr>
+</table>
+
+<a name='007'></a>
+<h2>TASK 7. ALGORITHMS ON GRAPHS. TOOLS FOR NETWORK ANALYSIS</h2>
+
+<h3>Goal</h3>
+
+The use of the network analysis software Gephi.
+
+<h3>Results</h3>
+
+<table>
+<tr>
+<td>Travelling Salesman Problem</td>
+<td>Initialized Solution</td>
+<td>Best Obtained Solution</td>
+<td>Initialized Solution</td>
+<td>Best Obtained Solution</td>
+</tr>
+<tr>
+<td>Graph</td>
+<td bgcolor=white><img src='https://github.com/mdvdv/analysis-and-development-of-algorithms/blob/main/TASK%204.%20ALGORITHMS%20FOR%20UNCONSTRAINED%20NONLINEAR%20OPTIMIZATION.%20STOCHASTIC%20AND%20METAHEURISTIC%20ALGORITHMS/images/initialized_solution.png'></td>
+<td bgcolor=white><img src='https://github.com/mdvdv/analysis-and-development-of-algorithms/blob/main/TASK%204.%20ALGORITHMS%20FOR%20UNCONSTRAINED%20NONLINEAR%20OPTIMIZATION.%20STOCHASTIC%20AND%20METAHEURISTIC%20ALGORITHMS/images/obtained_solution.png'></td>
+<td bgcolor=white><img src='https://github.com/mdvdv/analysis-and-development-of-algorithms/blob/main/TASK%204.%20ALGORITHMS%20FOR%20UNCONSTRAINED%20NONLINEAR%20OPTIMIZATION.%20STOCHASTIC%20AND%20METAHEURISTIC%20ALGORITHMS/images/initialized_solution.png'></td>
+<td bgcolor=white><img src='https://github.com/mdvdv/analysis-and-development-of-algorithms/blob/main/TASK%204.%20ALGORITHMS%20FOR%20UNCONSTRAINED%20NONLINEAR%20OPTIMIZATION.%20STOCHASTIC%20AND%20METAHEURISTIC%20ALGORITHMS/images/obtained_solution.png'></td>
 </tr>
 </table>
