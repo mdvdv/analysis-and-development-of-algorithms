@@ -17,6 +17,7 @@ Group: J4133c
     <li><a href='#005'>TASK 5. ALGORITHMS ON GRAPHS. INTRODUCTION TO GRAPHS AND BASIC ALGORITHMS ON GRAPHS</a></li>
     <li><a href='#006'>TASK 6. ALGORITHMS ON GRAPHS. PATH SEARCH ALGORITHMS ON WEIGHTED GRAPHS</a></li>
     <li><a href='#007'>TASK 7. ALGORITHMS ON GRAPHS. TOOLS FOR NETWORK ANALYSIS</a></li>
+    <li><a href='#008'>TASK 8. PRACTICAL ANALYSIS OF ADVANCED ALGORITHMS</a></li>
     </ol>
 </ul>
 
@@ -346,5 +347,35 @@ The use of the network analysis software Gephi.
 <tr>
 <td>Yifan Hu Proportional Layout</td>
 <td bgcolor=white><img src='https://github.com/mdvdv/analysis-and-development-of-algorithms/blob/main/TASK%207.%20ALGORITHMS%20ON%20GRAPHS.%20TOOLS%20FOR%20NETWORK%20ANALYSIS/images/yifan_hu_proportional.png'></td>
+</tr>
+</table>
+
+<a name='008'></a>
+<h2>TASK 8. PRACTICAL ANALYSIS OF ADVANCED ALGORITHMS</h2>
+
+<h3>Goal</h3>
+
+Practical analysis of advanced algorithms.
+
+<h3>Results</h3>
+
+Algorithms: Rabin-Karp Algorithm, Knuth-Morris-Pratt Algorithm.
+
+<table>
+<tr>
+<td>Comparative characteristic</td>
+<td>Graph</td>
+</tr>
+<tr>
+<td>Algorithm Execution Time</td>
+<td bgcolor=white><img src='https://github.com/mdvdv/analysis-and-development-of-algorithms/blob/main/TASK%208.%20PRACTICAL%20ANALYSIS%20OF%20ADVANCED%20ALGORITHMS/images/execution_time.png'></td>
+</tr>
+<tr>
+<td>Algorithm Execution Memory</td>
+<td bgcolor=white><img src='https://github.com/mdvdv/analysis-and-development-of-algorithms/blob/main/TASK%208.%20PRACTICAL%20ANALYSIS%20OF%20ADVANCED%20ALGORITHMS/images/execution_memory.png'></td>
+</tr>
+<tr>
+<td>Algorithm Execution Iterations</td>
+<td bgcolor=white><img src='https://github.com/mdvdv/analysis-and-development-of-algorithms/blob/main/TASK%208.%20PRACTICAL%20ANALYSIS%20OF%20ADVANCED%20ALGORITHMS/images/execution_iterations.png'></td>
 </tr>
 </table>
