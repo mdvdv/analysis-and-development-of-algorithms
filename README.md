@@ -1,9 +1,8 @@
 <h1>ANALYSIS AND DEVELOPMENT OF ALGORITHMS</h1>
-<hr></hr>
 
-Author: <a href='https://github.com/mdvdv'>Anatolii Medvedev</a>
+Author: <a href='https://github.com/mdvdv'>Anatoly Medvedev</a>
 
-Group: J4133c
+Group: J4322c
 
 <a name='000'></a>
 <h2>CONTENT</h2>
